@@ -6,6 +6,7 @@ int main()
     cout << "Hello World" << endl;
     cout << "Team Aufgabe 3" << endl;
     cout << "Aenderung " << endl;
+    cout << "Noch eine Aenderung " << endl;
 
     return 0;
 }
